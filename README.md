@@ -1,6 +1,7 @@
-# My Django First Lab
-Django (Python) 網站試作。   
-評估是否引用此技術。
+# My Django website first lab
+* Django 網站試作。
+* 因為它是用 Python 程式語言實作的網站。
+* 為了評估是否引用此技術。
 
 # 開發環境組織重點
 1. 安裝 [Python](https://www.python.org/)，   
