@@ -47,7 +47,7 @@ PS C:\MyDjangoFirstLab\mysite> python manage.py runserver
 
 # 沒圖沒真象
 ### 初始 Django 網站(看到它就代表成功了)
-![初始 Django 網站](/images/圖片%20001.png)
+![初始 Django 網站](/doc/圖片%20001.png)
 
 ### 我的第一個 Django 網頁
-![我的第一個 Django 網頁](/images/圖片%20002.png)
+![我的第一個 Django 網頁](/doc/圖片%20002.png)
